@@ -12,7 +12,7 @@ This repository contains code for a language detection model based on machine le
 
 To run the language detection model locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/language-detection-model.git`
+1. Clone this repository: `git clone https://github.com/Hk669/language-detection-model.git`
 2. Install Docker on your machine: https://docs.docker.com/get-docker/
 3. Build the Docker image: `docker build -t language-detection-app .`
 4. Run the Docker container: `docker run -p 80:80 language-detection-app`
