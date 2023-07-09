@@ -22,7 +22,8 @@ To run the language detection model locally, follow these steps:
 
 Make a POST request to the `/predict` endpoint with the following JSON payload:
 
-```json
-{
-  "text": "Enter your text here"
-}
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
